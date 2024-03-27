@@ -10,3 +10,15 @@ https://github.com/
 https://github.com/mbplilac/hellow.git
 git@github.com:mbplilac/hellow.git
 gh repo clone mbplilac/hellow
+
+1、关联远程git项目
+git remote add origin git@github.com:mbplilac/gitstudy.git
+2、查看关联的远程项目
+git remote -v
+3、推送本地库内容到远程 
+git push origin master:main
+git push -u origin main
+	出错后cmd ssh-keygen -t ed25519 -C "44322864@qq.com"
+4、拉取远程项目最新更新
+git pull origin main  
+git pull origin master:main 
