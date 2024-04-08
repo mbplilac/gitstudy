@@ -33,3 +33,9 @@ $ git checkout dev
 
 git branch命令查看当前分支：
 $ git branch
+
+删除dev分支
+$ git branch -d dev
+
+合并分支，先切换到master分支
+$ git merge dev
