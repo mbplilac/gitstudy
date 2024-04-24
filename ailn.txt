@@ -12,13 +12,27 @@ https://53ai.com/news/qianyanjishu/614.html 一文掌握Prompt的道法术器
 https://53ai.com/news/qianyanjishu/598.html 周鸿祎AI课，我整理出21条笔记
 https://53ai.com/news/qianyanjishu/588.html     大语言模型名词扫盲
 https://53ai.com/news/qianyanjishu/524.html     本地跑大模型，需要什么配置
+https://53ai.com/news/qianyanjishu/332.html  一文搞懂Embedding工作原理
+https://53ai.com/news/gerentixiao/544.html  Kimi 官方结构化提示词
+https://53ai.com/news/gerentixiao/376.html  18个prompt模版
+https://langgptai.feishu.cn/wiki/WDfzwfTKwi1lyAkBcoCcu0sUnPc    Prompt 优化
 
 ai学习网址
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 ai英文缩写说明
 
 大型语言模型（LLMs）    提示工程（PE）    样本设计工程SDE   多方面情感分析（MASA）   链式思考（CoT）   人工智能生成内容（AIGC）  RAG（Retrieval-Augmented Generation)检索生成增强   检索增强生成（RAG）与链式思考（CoT）提示 
-RAG与CoT的结合——RAT temperature 中文意思是“温度”。  RAG技术(Retrieval-Augmented Generation, 检索增强生成)   智能体（Intelligent Agent）以及智能体AgentBot Knowledge Copilot（知识助手） Few-Shot (少样本示例).   AGI（通用人工智能） AIGC（人工智能生成内容） 人工智能（AI）   机器学习（ML）和深度学习（DL）
+RAG与CoT的结合——RAT temperature 中文意思是“温度”。  RAG技术(Retrieval-Augmented Generation, 检索增强生成)   智能体（Intelligent Agent）以及智能体AgentBot Knowledge Copilot（知识助手） Few-Shot (少样本示例).   AGI（通用人工智能） AIGC（人工智能生成内容） 人工智能（AI）   机器学习（ML）和深度学习（DL） RAFT（检索增强的微调）   特定领域微调 (DSF)    检索（Retireve）    WebGPT  模型训练(Model Training)：   微调(Fine-Tuning)：    检索增强生成(Retrieval-Augmented Generation -RAG)：    提示工程(Prompt Engineering)：   大型语言模型运营（LLMOps）    大型语言模型（Large Language Models，简称LLMs）    RLHF（Reinforcement Learning with Human Feedback）即基于人类反馈的强化学习    监督微调（Supervised Finetuning）     创建奖励模型（Reward Modeling）     Pipeline Parallel（流水线并行）    Tensor Parallel（张量并行）   Continuous Batching（连续批处理）
+
+零样本提示（Zero-shot）    少样本提示（Few-shot）
+思维链（Chain-of-Thought / CoT） 自动思维链（Automatic CoT）
+自洽（Self-consistency）    自动提示工程师（Automatic Prompt Engineer）
+生产知识提示（Generated Knowledge Prompting）   思维树（Tree of Thought / ToT)
+思维图（Graph of Thoughts / GoT)    自动增强检索（Retrieval Augmented Generation / RAG)
+元认知提示（Metacognitive prompting）  逻辑思维链（Logic CoT）
+ReAct提示 （ReAct Prompting）   多模态CoT （Multimodal CoT）
+自动推理和工具使用（Automatic Reasoning and Tool-use / ART)   思维算法（Algrithom of Thought）
+交互与推理技术 ReAct Prompting
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 ai概念说明
@@ -97,6 +111,22 @@ AI智能体定义：AI智能体被描述为能够规划和采取行动以在多�
  知识图谱是由实体（Entity）、关系（Relationship）、属性（Property）三元组构成，抽象地描述为：实体—关系—实体。
  Knowledge Graph，也称为语义图是一种高效存储数据的智能结构。数据以节点和边的形式存储。节点表示对象，边表示对象之间的关系。以知识图为代表的数据模型有时被称为资源描述框架（RDF）
 
+Agents=LLM（决策）+Memory（记忆）+Tools（执行）
+嵌入是将某些数据对象表示为向量，其构造使得数据对象的某些属性被编码到其向量表示的几何属性中。
+LangGraph是以LangChain为核心，用于创建工作流程中的循环图的工具。
+RAG系统主要包括两个部分：检索器和生成器。其中生成器可以理解为就是大语言模型（货架商品或深度定制），而检索器有的是基于语言模型、有的是基于词频算法、有的是两者结合使用。围绕RAG系统的科学研究主要内容是系统架构、训练方法、技术组合和各类奇思妙想。
+检索，或更直接的翻译“获取”，或更专业一点的术语“召回”，是指在一个文档的集合中，找出与用户查询相关的子集的过程。
+Google推出了其最先进的通用模型Gemini，在32个重要学术基准中有30个超越了OpenAI的GPT-4。
+提示词，简单来说，就是一种指导或命令，用于告诉大模型或软件应该执行什么操作。它们可以是简单的单个词，如“画图”或“搜索”，也可以是一整句具体的指示
+
+每种AI方法都具有独特的优势：
+模型训练：适用于全新的突破性应用。
+微调：用于对现有模型进行特定改进。
+RAG：适用于需要大量实时信息的应用。
+提示工程：以高效地利用现有模型进行创造性运用
+
+Retrieval Augmented Thoughts (RAT) 是一种协同思维链 (CoT) 和检索增强生成 (RAG) 的 AI 提示策略，助力解决具有挑战性的长任务推理和生成。
+
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 ai模型框架相关
 Ollama 是一个基于 Go 语言开发的简单易用的本地大模型运行框架
@@ -114,12 +144,21 @@ LLocalSearch 是一个完全本地运行的搜索聚合器，使用 LLM 代理�
 在Windows系统快速部署Ollama开源大语言模型 
 kimi的官方介绍使用。https://platform.moonshot.cn
 
+
+本地化大模型应用Ollama和LMstudio。
+Ollama：为初学者和非技术人员设计,Ollama是一个完全开源的工具
+LM Studio：为追求丰富功能的用户提供,LM Studio是一个商业产品
+
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 ai调优
 精选出四种主流且有效的调优方式：提示词工程、模型微调、强化学习人工干预、预训练（顺序由易到难）。
 
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ai参考
+扁鹊 (BianQue)：https://github.com/scutcyr/BianQue
+灵心 (SoulChat)：https://github.com/scutcyr/SoulChat
+《机器学习平台架构实战》
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
