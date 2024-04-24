@@ -1,0 +1,14 @@
+https://www.promptingguide.ai/zh    提示词学习
+https://53ai.com/news/qianyanjishu/379.html
+https://github.com/yzfly/awesome-chatgpt-zh/blob/main/docs/ChatGPT_prompts.md 提示词学习
+https://53ai.com/news/qianyanjishu/1186.html
+https://53ai.com/news/qianyanjishu/1172.html
+https://53ai.com/news/qianyanjishu/1156.html
+项目的初衷，其实是开发一个小小的基于Ollama的Web应用，方便用户在本地环境管理Ollama支持的开源大模型，同时与模型聊天。
+https://53ai.com/news/qianyanjishu/1153.html    OpenAI prompt最佳实践
+https://53ai.com/news/qianyanjishu/946.html
+https://53ai.com/news/qianyanjishu/804.html Prompt 到底是干啥的（上篇）
+https://53ai.com/news/qianyanjishu/614.html 一文掌握Prompt的道法术器
+https://53ai.com/news/qianyanjishu/598.html 周鸿祎AI课，我整理出21条笔记
+https://53ai.com/news/qianyanjishu/588.html     大语言模型名词扫盲
+https://53ai.com/news/qianyanjishu/524.html     本地跑大模型，需要什么配置
