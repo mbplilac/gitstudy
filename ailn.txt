@@ -160,5 +160,12 @@ ai参考
 灵心 (SoulChat)：https://github.com/scutcyr/SoulChat
 《机器学习平台架构实战》
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ai学习网站网址
+ https://github.com/yzfly/awesome-chatgpt-zh/blob/main/docs/ChatGPT_prompts.md
+ [《用ChatGPT API构建系统》课程](https://learn.deeplearning.ai/chatgpt-building-system/lesson/1/introduction
+
+[吴恩达《面向开发者的 ChatGPT 提示词工程》](https://learn.deeplearning.ai/)
+44322864@qq.com@zdx123??
+
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
