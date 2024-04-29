@@ -1,0 +1,242 @@
+ github.com/TheAlgorithms
+ github.com/521xueweihan/HelloGitHub
+
+
+ 以下为感兴趣的项目
+
+ [jstraining](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ruanyf/jstraining)：阮一峰写的全栈工程师培训材料
+[vim-go](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/fatih/vim-go)：Go 的 vim 配置
+9、[VulApps](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Medicean/VulApps)：用于快速搭建各种漏洞环境，可用来学习、理解常见的漏洞，增强自己在开发过程的安全意识
+7、[flv.js](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/bilibili/flv.js)：使用纯 JavaScript 写的 HTML5 Flash 视频（flv）播放器，示例代码如下：
+ 12、[chinese-programmer-wrong-pronunciation](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/shimohq/chinese-programmer-wrong-pronunciation)：中国程序员容易发音错误的单词
+ [linux-command](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jaywcjlove/linux-command)：Linux 命令大全搜索工具，内容包含 Linux 命令手册、详解、学习、搜集
+ 11、[js-stack-from-scratch](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/xitu/js-stack-from-scratch)：从零开始构建 JavaScript 技术栈（中文版）
+
+ 28、[free-programming-books-zh_CN](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/justjavac/free-programming-books-zh_CN)：免费的计算机编程类中文书籍
+
+
+29、[growth-ebook](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/phodal/growth-ebook)：全栈增长工程师指南，[在线阅读](
+
+    18、[English-level-up-tips](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/byoungd/English-level-up-tips)：如何提高英语技能
+
+    21、[vim-galore-zh_cn](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/wsdjeg/vim-galore-zh_cn)：Vim 从入门到精通
+
+    22、[es6tutorial](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ruanyf/es6tutorial)：阮一峰老师的开源精品，ECMAScript 6 入门书籍，[在线阅读](http://es6.ruanyifeng.com/)
+
+
+
+
+23、[redis](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/huangzworks/redis)：《Redis Command Reference》全文的中文翻译版，[在线阅读](
+
+    1、[Tinyhttpd](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/EZLippi/Tinyhttpd)：一个不到 500 行的超轻量型 HTTP Server，可以用来理解服务器程序的原理和本质。快看 C语言 的入门级项目！
+
+    25、[tutorials](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/MorvanZhou/tutorials)：机器学习入门教程，十分详细包含视频教程、文字教程
+
+    20、[games](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/leereilly/games)：GitHub 上游戏项目的合集
+
+21、[learn-regex](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ziishaned/learn-regex)：易学的正则表达式教程，[中文](https://github.com/zeeshanu/learn-regex/blob/master/README-cn.md)
+
+23、[PythonSpiderNotes](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lining0806/PythonSpiderNotes)：Python 爬虫入门教程
+
+24、[sec-chart](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/SecWiki/sec-chart)：安全思维导图集合
+
+27、[EffectiveTensorflow](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/vahidk/EffectiveTensorflow)：TensorFlow 最佳实践
+
+
+28、[TensorFlow-World](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/astorfi/TensorFlow-World)：简单易用的 TensorFlow 教程
+
+1、[db_tutorial](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/cstack/db_tutorial)：用 C 从零创建一个简单的数据库
+
+19、[deeplearningbook-chinese](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/exacity/deeplearningbook-chinese)：Deep Learning 中文版
+
+16、[china_area_mysql](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kakuilan/china_area_mysql)：中国 5 级行政区域 MySQL 库
+
+17、[ctf-wiki](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ctf-wiki/ctf-wiki)：一个自由的站点，主要包含了 CTF 的基础知识 、常见题型、解题思路以及常用工具等，希望可以帮助你更快地了解 CTF 竞赛以及网络安全相关知识
+
+18、[open_source_team](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/niezhiyang/open_source_team)：国内顶尖团队的开源地址
+
+15、[chinese-poetry](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/chinese-poetry/chinese-poetry)：中华古典文集数据集，包含 5.5 万首唐诗、26 万首宋诗和 2.1 万首宋词。唐宋两朝近 1.4 万古诗人和两宋时期1500 词人。以 json 文件、数据库方式存储，[爬取过程及分析](https://jackeygao.io/words/crawl-ci.html)
+
+
+16、[ios-dev-flow](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/leecade/ios-dev-flow)：iOS 开发流程，记录了 iOS 程序上架需要的方方面面
+
+
+17、[remote-working](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/greatghoul/remote-working)：收集整理国内远程工作相关的项目
+ 
+18、[kubernetes-handbook](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/rootsongjc/kubernetes-handbook)：Kubernetes 中文指南／实践手册，[在线阅读](https://jimmysong.io/kubernetes-handbook/)
+
+
+19、[microservices](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/DocsHome/microservices)：《微服务：从设计到部署》中文版，[在线阅读](http://oopsguy.com/books/microservices/index.html)
+
+
+20、[op_practice_book](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/meetbill/op_practice_book)：《运维实践指南》
+
+13、[document-style-guide](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ruanyf/document-style-guide)：《中文技术文档的写作规范》
+
+9、[arithmetic-php](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/pushaowei/arithmetic-php)：PHP 语言实现的各类算法合集 
+
+15、[awesome-blockchain-cn](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/chaozh/awesome-blockchain-cn)：区块链技术开发相关资料
+
+
+16、[Back-End-Developer-Interview-Questions](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/monklof/Back-End-Developer-Interview-Questions)：后端面试问题集合
+
+19、[vim-galore](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mhinz/vim-galore)：Vim 从入门到精通，[中文](https://github.com/wsdjeg/vim-galore-zh_cn)
+
+19、[front-end-interview-handbook](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yangshun/front-end-interview-handbook)：与典型的软件工程师面试不同，前端面试对算法的重视比较低。面试会更多考查错综复杂的前端知识，像 HTML、CSS、JavaScript 等等。这个项目整理了这些问题，并给出了答案以及参考连接。[中文版](https://github.com/yangshun/front-end-interview-handbook/blob/master/Translations/Chinese/README.md)
+
+23、[tensorflow-docs](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/xitu/tensorflow-docs)：TensorFlow Docs 是由掘金翻译计划实时维护的 TensorFlow 官方文档中文版，维护者为全球各大公司开发人员和各著名高校研究者及学生
+
+22、[pytorch-book](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/chenyuntc/pytorch-book)：书籍《深度学习框架 PyTorch：入门与实践》的示例代码，可以作为一个独立的 PyTorch 入门指南和教程。内容结构如下图所示：
+
+21、[architect-awesome](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/xingshaocheng/architect-awesome)：《后端架构师技术图谱》
+
+
+22、[architecture.of.internet-product](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/davideuler/architecture.of.internet-product)：知名互联网公司的架构文档
+
+21、[architect-awesome](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/xingshaocheng/architect-awesome)：《后端架构师技术图谱》
+
+
+22、[architecture.of.internet-product](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/davideuler/architecture.of.internet-product)：知名互联网公司的架构文档
+
+23、[chinese-independent-developer](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/1c7/chinese-independent-developer)：中国独立开发者项目列表
+
+25、[project-based-learning](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/practical-tutorials/project-based-learning)：编程教程仓库，这些教程分别使用不同的编程语言，从零构建应用程序。使读者通过实际项目案例，学习编译原理、操作系统、计算机网络、数据库等等。面向项目学习，比面向书本学习可操作性更高，更容易获得正向反馈
+
+21、[100-Days-Of-ML-Code](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Avik-Jain/100-Days-Of-ML-Code)：《机器学习 100天》[中文版](https://github.com/MLEveryday/100-Days-Of-ML-Code)
+
+1、[C](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/TheAlgorithms/C)：各种基础算法、数据结构的 C 语言实现。这个[TheAlgorithms](https://github.com/TheAlgorithms) 开源组织的项目包含基础算法的各种编程语言的示例代码
+
+22、[README](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/guodongxiaren/README)：该项目介绍了 GFM 的语法和示例展示。GitHub 的 Markdown 语法在标准的语法基础上做了扩充，称之为 GitHub Flavored Markdown，简称 GFM。友好的 README 是项目的第一印象，这点很重要
+
+24、[nndl.github.io](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nndl/nndl.github.io)：《神经网络与深度学习》该课程主要介绍神经网络与深度学习中的基础知识、主要模型（卷积神经网络、递归神经网络等）以及在计算机视觉、自然语言处理等领域的应用。[在线阅读](https://nndl.github.io/)
+
+22、[ProgrammingFonts](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ProgrammingFonts/ProgrammingFonts)：适合程序员的编程字体的集合，现在有 30 多种奇妙的字体
+24、[sdn-handbook](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/feiskyer/sdn-handbook)：有关 SDN 的资料和书籍非常丰富，但入门和学习 SDN 依然是非常困难。该项目整理了 SDN 实践中的一些基本理论和实践案例心得，希望大家看完后有所收获
+
+3、[lit](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ajusa/lit)：仅 395 字节的响应式 CSS 框架
+
+26、[algorithm-visualizer](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/algorithm-visualizer/algorithm-visualizer)：一个交互式算法可视化网站。你可以自由选择自己想学习的算法，每个算法它都清晰描绘了其原理和运作过程
+
+24、[libpku](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lib-pku/libpku)：由第三方整理的北京大学课程资料，涵盖了专业课、公选课、通选课等
+
+
+25、[nginx-admins-handbook](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/trimstray/nginx-admins-handbook)：该项目描述了如何提高 Nginx 的性能、安全性等方面的步骤，让你的网站在 SSL Labs 的评级到达 A+
+
+26、[REKCARC-TSC-UHT](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/PKUanonym/REKCARC-TSC-UHT)：清华大学计算机系课程相关资源集合。内容丰富，包含从大一到大四，跟着清华学子一起学习传说中高校的课程吧
+
+27、[SJTU-Courses](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kxxwz/SJTU-Courses)：上海交通大学课程资料分享
+
+
+28、[zju-icicles](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/QSCTech/zju-icicles)：浙江大学各种课程相关资源集合。包含：课程、作业、答案、复习资料、选课攻略等，是浙大在校生的必备资源，对于有考研想法的小伙伴而言也是很好的资源
+
+16、[PHP-Interview-QA](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/colinlet/PHP-Interview-QA)：《PHP 面试问答》结合实际 PHP 面试经验，系统地汇总面试中的各类的问题，并尝试提供简洁准确的答案，为你面试 PHP 相关岗位提供“秘籍”。包含：网络协议、数据结构与算法、PHP基础、Web、MySQL、Redis、自我介绍、离职原因、职业规划等部分
+
+20、[Python-100-Days](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jackfrued/Python-100-Days)：《Python 100 天从新手到大师》—— Python 的入门学习资料，学习曲线低。非专业人士也能上手学习，适合新手入门
+
+26、[algo](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/wangzheng0822/algo)：必知必会的数据结构和算法代码答案（多种编程语言）
+27、[commit-messages-guide](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/RomuloOliveira/commit-messages-guide)：Git 提交描述（commit）的编写指南，[中文](https://github.com/RomuloOliveira/commit-messages-guide/blob/master/README_zh-CN.md)
+
+
+28、[hacker-laws](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dwmkerr/hacker-laws)：程序员工作中可能使用到的定律、原则的讲解，这些原则多应用于我们的开发和设计中，开卷有益
+31、[The-Hacker-Playbook-3-Translation](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Snowming04/The-Hacker-Playbook-3-Translation)：《The Hacker Playbook 3》中文翻译版（渗透测试实战红队第三版）
+28、[from_coder_to_expert](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/0voice/from_coder_to_expert)：2019 年各互联网大厂最新内部技术分享的文档、PDF、PPT 集合。从程序员到 CTO，从专业走向卓越
+
+30、[git-open](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/paulirish/git-open)：用 git 命令 push 完代码，想看仓库网页内容是否更新成功还需要再去打开网页查看。有了这个项目，直接输入 git open 命令浏览器就能自动打开对应的仓库的网页，支持 GitHub、GitLab、Bitbucket。是不是很方便？还等什么快去试试
+
+37、[LIS-YNP](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Eurus-Holmes/LIS-YNP)：一个包含基础教程、提高参考资料、有趣实践项目的 PyTorch 教程。人生苦短，我用 PyTorch
+
+
+38、[TabNine](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/codota/TabNine)：基于 OpenAI 的语言模型的代码补全工具。支持 23 种编程语言、5 种编辑器（VS Code、Sublime Text、Atom、Emacs、Vim）、使用简单，效果惊艳
+
+23、[git-tips](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/521xueweihan/git-tips)：Git 常用命令集合
+
+19、[RPA-Python](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tebelorg/RPA-Python)：一个 Python 自动化操作的库。比如：自动打开网页并截图，示例代码：
+
+29、[dimensionality_reduction_alo_codes](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/heucoder/dimensionality_reduction_alo_codes)：该项目使用 Python 实现了 11 种经典的数据抽取（数据降维）算法。同时附有相关资料、展示效果，适用于机器学习初学者和刚刚入坑数据挖掘的小伙伴
+
+31、[front-end-handbook-2019](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/FrontendMasters/front-end-handbook-2019)：《Front-End Developer Handbook 2019》（前端开发者手册 2019 版）。该书适合任何阶段的人用来了解前端开发实践的指南，它概述和讨论了前端工程的实践：如何学习前端、在 2019 年进行前端实践时应该使用哪些工具。[在线阅读](https://frontendmasters.com/books/front-end-handbook/2019/)
+
+
+32、[machine-learning-systems-design](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/chiphuyen/machine-learning-systems-design)：一本关于机器学习系统设计的小册子附有练习题
+
+### PHP 项目
+
+18、[parsedown](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/erusev/parsedown)：一个小而美的 PHP 的 Markdown 解析库。该库提供了标准 Markdown 文本转化成 HTML 字符串功能，并拥有良好的文档。它的主文件只有一个，除了 PHP 版本限制必须高于 5.3 外几乎无依赖，可通过 composer 引入，也可以直接使用 Parsedown.php 文件。该项目中使用大量正则表达式，可作为学习正则表达式的示例，并且有完整的单元测试。示例代码：
+13、[clean-code-php](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/piotrplenik/clean-code-php)：PHP 代码的整洁之道，整理了一系列整洁代码实操。小到变量细道 SOLID 都有涉猎，[中文译版](https://github.com/php-cpm/clean-code-php)
+21、[book](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/rust-lang/book)：《Rust 编程语言》这是官方出品的关于 Rust 的入门书籍
+30、[data-science-ipython-notebooks](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/donnemartin/data-science-ipython-notebooks)：数据科学的 IPython 集合。包含：TensorFlow、Theano、Caffe、scikit-learn、Spark、Hadoop、MapReduce、matplotlib、pandas、SciPy 等方方面面
+30、[3d-photo-inpainting](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/vt-vl-lab/3d-photo-inpainting)：一个把单张静态照片转化成 3D 图片的项目。快来尝鲜啦，不要等朋友圈 3D 照片刷屏后才“后知后觉”
+26、[first-contributions](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/firstcontributions/first-contributions)：手把手教你如何在 GitHub 第一次贡献代码的教程。支持多种语言，[中文](https://github.com/firstcontributions/first-contributions/blob/master/translations/README.chs.md)
+
+30、[jshistory-cn](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/doodlewind/jshistory-cn)：《JavaScript 20 年》中文版。[在线阅读](https://cn.history.js.org/)
+
+30、[EasyOCR](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/JaidedAI/EasyOCR)：支持多种语言的即用型的 Python OCR 库，包括中文、日文、韩文等。示例代码
+34、[DeepLearning-500-questions](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/scutan90/DeepLearning-500-questions)：《深度学习 500 问》AI 工程师面试知识点的书籍。内容涵盖深度学习的知识点及各大公司常见的笔试题
+18、[dompdf](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dompdf/dompdf)：一个 HTML 转 PDF 的 PHP 库。示例代码：
+
+31、[best-of-ml-python](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ml-tooling/best-of-ml-python)：优秀的 Python 机器学习相关开源库集合。该项目会根据收录的开源项目各项指标计算得出一个评分，并定期更新
+ 
+
+32、[tensorflow-handbook](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/snowkylin/tensorflow-handbook)：《简明的 TensorFlow 2》，[在线阅读](https://tf.wiki/zh_hans/)
+
+33、[The-design-and-implementation-of-a-64-bit-os](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yifengyou/The-design-and-implementation-of-a-64-bit-os)：《一个 64 位操作系统的设计与实现》
+
+ 
+1、[discount](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Orc/discount)：一个用 C 语言编写的 Markdown 实现，可以轻松将 MD 文档转换为 HTML 格式
+
+22、[learn-python](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/trekhleb/learn-python)：一份以代码和注释方式讲解 Python 的免费教程。每个 Python 基础语法和知识点都采用可以运行的代码为例讲解，再配上适当的注释和参考资料，让你快速上手 Python。此项目不仅可以当做学习 Python 的资料，还可以留着做为速查表
+
+33、[vulhub](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/vulhub/vulhub)：一个面向大众的开源漏洞环境集合。Vulhub 中包含了 180 余个丰富且真实的漏洞与其相应的环境，无需 Docker 知识即可通过一条简单的命令，跑起来一个存在某个漏洞的完整应用。安全研究人员能够方便地复现与研究漏洞，省去了学习复杂的部署知识、寻找有漏洞的旧版本应用、搭建依赖的服务等麻烦，从而可以快速验证修复方案
+
+34、[Learn-Web-Hacking](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/LyleMi/Learn-Web-Hacking)：Web 安全学习笔记，[在线阅读](https://websec.readthedocs.io/zh/latest/)
+
+
+35、[LearnOpenGL-CN](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/LearnOpenGL-CN/LearnOpenGL-CN)：LearnOpenGL 教程的中文翻译。OpenGL 是一个图形 API，包含了一系列可以操作图形、图像的函数。它需要一个编程语言来工作，教程的示例代码采用 C++ 编程语言。[在线阅读](
+
+    36、[pumpkin-book](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/datawhalechina/pumpkin-book)：《机器学习公式详解》西瓜书公式推导解析。[在线阅读](https://datawhalechina.github.io/pumpkin-book/)
+
+24、[laravel-tips](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/LaravelDaily/laravel-tips)：Laravel 编码技巧集合。[中文](https://github.com/Lysice/laravel-tips-chinese/blob/master/README-zh.md)
+
+26、[blog_os](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/phil-opp/blog_os)：用 Rust 从零开发一个操作系统的教程。保姆级教程！从空文件夹开始，一步步搭建开发环境，通过原理描述、代码示例讲解操作系统背后的原理。硬要说缺点的话就是教程是英文的，但是配上代码示例读起来不是很费劲。[中文](https://os.phil-opp.com/zh-CN/)
+
+
+27、[design-patterns-for-humans](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kamranahmedse/design-patterns-for-humans)：人人都能看懂的设计模式教程。[中文](https://github.com/guanguans/design-patterns-for-humans-cn)
+
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/72/82227585.png' style="max-width:80%; max-height=80%;"></img></p>
+
+31、[Learn-Vim](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/iggredible/Learn-Vim)：学习 Vim 的指南。该教程不是“大而全的百科全书”，它着重介绍了 Vim 中最常用的功能，让你可以快速熟悉和使用 Vim。[中文](https://github.com/wsdjeg/Learn-Vim_zh_cn)
+32、[dnsguide](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/EmilHernvall/dnsguide)：用 Rust 从头写一个 DNS 服务的教程
+
+
+33、[gitv](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/chenjiandongx/gitv)：由 Rust 编写的 Git 仓库分析和数据可视化的命令行工具
+39、[Thanks-Mirror](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/eryajf/Thanks-Mirror)：国内公共仓库镜像的集合。该项目包含开发常用的库、软件、系统镜像地址以及使用的方法
+41、[machine-learning-yearning-cn](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/deeplearning-ai/machine-learning-yearning-cn)：《Machine Learning Yearning》中文版。《机器学习训练秘籍》样稿吴恩达著，[在线阅读](https://deeplearning-ai.github.io/machine-learning-yearning-cn/)
+42、[paper-reading](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mli/paper-reading)：深度学习论文精读集合。李沐发起的深度学习领域经典、最新论文精读视频集合。
+ 29、[OCRmyPDF](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ocrmypdf/OCRmyPDF)：可以把 PDF 文件变成可搜索文件的工具。它使用 Tesseract OCR 引擎，将 PDF 的内容识别成文本，然后给 PDF 文件增加 OCR 文本层。从而实现可搜索和复制 PDF 的内容，已支持 100 多种语言
+
+ 33、[cdn-up-and-running](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/leandromoreira/cdn-up-and-running)：从零开始构建 CDN 的教程。为了让你在实战中学习 CDN 的工作原理，这里会从创建一个单一的后端服务开始，逐渐扩展到多个节点、模拟延迟、可视化、可测试的 CDN 服务。因为设计 CDN 会涉及 Nginx、Lua、Docker、Grafana 等知识点，所以学习该教程需要有一定的编程基础。
+
+ 22、[upload-labs](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/c0ny1/upload-labs)：用于练习上传漏洞的靶场。这是一个采用 PHP 语言编写的用于练习上传漏洞的在线靶场。它收集了渗透测试和 CTF 中遇到的各种上传漏洞的靶场。目前一共 20 关，每一关都包含着不同上传方式。
+
+ 35、[backgroundremover](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nadermx/backgroundremover)：一条命令自动移除图像背景。该项目通过 AI 技术，可自动移除图片和视频中的背景。
+ 
+
+36、[machine-learning-roadmap](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mrdbourke/machine-learning-roadmap)：机器学习路线图。这份机器学习思维导图，包含了机器学习相关的问题、学习步骤、工具、底层数学知识、教程资源等，为如何学习机器学习指出方向。
+
+23、[marker](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/VikParuchuri/marker)：将 PDF 转换为 Markdown 文件的项目。这是一个能够将 PDF、EPUB 和 MOBI 格式的文件转换为 Markdown 文件的 Python 项目。相较于 Nougat，它具有更快的速度和更高的准确度，在处理英语类内容时效果最佳，但对中文的处理就要差一些。
+
+39、[generative-ai-for-beginners](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/microsoft/generative-ai-for-beginners)：面向初学者的生成式人工智能教程。这是由微软开源的面向初学者的生成式 AI 免费课程，课程共 18 节，涵盖了创建生成式 AI 应用所需要了解的一切，包括生成式 AI 和 LLMs 的简介、提示词、构建文本生成应用、聊天应用、图像生成应用、向量数据库等方面的内容。
+
+40、[jan](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/janhq/jan)：一站式体验 LLMs 的桌面应用。这是一个支持在本地运行开源 LLMs 和连接 ChatGPT 服务的 AI 对话桌面应用，它开箱即用、界面清爽、不挑硬件，支持设置代理、接入 ChatGPT、一键下载/接入适配当前电脑配置的大模型、离线运行等功能，适用于 Windows、Linux、macOS 操作系统。
+41、[open-interpreter](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/OpenInterpreter/open-interpreter)：让 LLM 在你的计算机上运行代码。该项目可以让大语言模型在本地运行代码，支持 Python、JavaScript、Shell 等编程语言。相当于大语言模型是一个解释器，它会理解你的意图，将自然语言转化成相应的代码脚本并运行。安装后，用户就可以在终端通过聊天的方式操作计算机，比如创建和编辑图片、视频和文件，控制 Chrome 浏览器进行搜索等。
+
+[Photo-Sphere-Viewer](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mistic100/Photo-Sphere-Viewer)：用于显示 360° 球体全景的 JavaScript 库。这是一个基于 Three.js 开发的全景照片查看器，提供了友好的交互和丰富的功能。它支持多种全景图格式和功能，包括 2:1 全景图、六面体全景图、全景图分片、显示文本、视频全景等。来自 [@wanzij](https://hellogithub.com/user/QkXB6ugmwMTqteF) 的分享
+
+、[dangerzone](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/freedomofpress/dangerzone)：将不可信文档转化为安全 PDF 的工具。这是一个确保文档安全的开源项目，它可以将存在潜在危险（来路不明、电子邮件附件）的 PDF 文件、办公文档或图片，在隔离的沙盒环境中进行转换，生成安全的 PDF 文件。
+
+36、[llm-universe](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/datawhalechina/llm-universe)：《动手学大模型应用开发》。该项目是专为小白开发者设计的大模型应用开发教程。内容涵盖了大模型的概念介绍、如何调用大模型API、知识库的搭建、构建 RAG（Retrieval-Augmented Generation）应用以及评估方法等内容。
+
+37、[langchain](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/langchain-ai/langchain)：构建基于 LLM 应用的框架。LLM 是基于大数据预先训练好的大型深度学习模型，该项目可让 LLM 无需再训练就能访问新的数据集。它提供了开发 LLM 应用所需的各种模块，包括连接上下文来源和基于 LLM 进行推理的功能，从而轻松开发由 LLMs 支持的各种应用，比如聊天机器人、知识库和信息提取等。
+38、[LLaMA-Factory](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hiyouga/LLaMA-Factory)：专门针对 LLM 做微调的框架。这是一个让微调大型语言模型变得轻松的开源项目，它支持 LLaMA、Mistral、ChatGLM 等多种模型，以及增量预训练、奖励模型训练和精度等级等功
+
