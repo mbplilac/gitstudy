@@ -240,3 +240,21 @@
 37、[langchain](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/langchain-ai/langchain)：构建基于 LLM 应用的框架。LLM 是基于大数据预先训练好的大型深度学习模型，该项目可让 LLM 无需再训练就能访问新的数据集。它提供了开发 LLM 应用所需的各种模块，包括连接上下文来源和基于 LLM 进行推理的功能，从而轻松开发由 LLMs 支持的各种应用，比如聊天机器人、知识库和信息提取等。
 38、[LLaMA-Factory](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hiyouga/LLaMA-Factory)：专门针对 LLM 做微调的框架。这是一个让微调大型语言模型变得轻松的开源项目，它支持 LLaMA、Mistral、ChatGLM 等多种模型，以及增量预训练、奖励模型训练和精度等级等功
 
+/****************************/
+云原生 kubernetes-handbook-master
+英语学习 English-level-up-tips-master
+微服务：从设计到部署 microservices-master
+运维实践指南 op_practice_book-master
+基于项目的学习(Project Based Learning) project-based-learning-master
+远程工作(协作) remote-working-master
+轻量级的HTTP服务器 Tinyhttpd-master
+Python编程指南 tutorials-master
+从零开始构建 JavaScript 技术栈 js-stack-from-scratch-master
+免费的编程中文书籍索引 free-programming-books-zh_CN-main
+中文技术文档的写作规范 document-style-guide-master
+Deep Learning 中文翻译 deeplearningbook-chinese-master
+互联网公司经典技术架构 architecture.of.internet-product-master
+后端架构师技术图谱 architect-awesome-master
+机器学习100天（100-Days-Of-ML-Code） 100-Days-Of-ML-Code-master
+全栈工程师培训材料 jstraining-master
+/******************************/
